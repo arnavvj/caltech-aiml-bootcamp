@@ -1,4 +1,4 @@
-- develop a CNN model to classify fruits using given snippets
+- develop a CNN model to classify fruits using given image snippets
 
 - multiclass classification use case
 
@@ -7,3 +7,5 @@
 - given data is in a zip format and is expected to be used as it is
 
 - upload the zipped data folder on google colab before running the notebook
+
+- data location: "caltech-aiml-bootcamp/all_data/fruits-small.zip"
