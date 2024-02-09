@@ -1,0 +1,9 @@
+- perform hypothesis testing on given data columns (part 2)
+
+- upload this notebook on google drive and execute it on google colab
+
+- given data is in a csv file and is expected to be used as it is
+
+- upload the csv file on google colab before running the notebook
+
+- data location: "caltech-aiml-bootcamp/all_data/50_Startups.csv"
