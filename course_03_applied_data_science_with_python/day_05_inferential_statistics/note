@@ -1,0 +1,21 @@
+[PART 1] inferential statistics performed on salary data
+
+	1. upload the `inferential_stats_salary_data` notebook on google drive
+
+	2. upload the  `Salary_Data` csv file in the colab environment
+
+	3. run the notebook and save the model 
+
+
+
+[PART 2] simulate a salary predictor application
+
+	1. upload the `salary_predictor_app` notebook on google drive
+
+	2. upload the downloaded model (.mdl extension) in the colab environment
+
+	3. test the model through the app/simulator
+
+
+
+[NOTE] data location: "caltech-aiml-bootcamp/all_data/Salary_Data.csv"
